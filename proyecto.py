@@ -1,3 +1,4 @@
+# Me gusta el helado de chocolate
 n=int(input('Ingrese el rango de valores que desee:'))
 sumapar=0
 sumaimpar=0
