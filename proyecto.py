@@ -1,11 +1,22 @@
-n=int(input('Ingrese el rango de valores que desee:'))
-sumapar=0
-sumaimpar=0
-for i in range(n):
-    k=int(input("Ingrese el número: "))
-    if k//2>=0 and k%2==0:
-        sumapar=sumapar+(k**2)
-    else:
-        sumaimpar=sumaimpar+(k**2)
-print(sumapar)
-print(sumaimpar)
+n = int(input())
+
+for i in range(n): # range (0, n)
+# for se ejectua siempre que cumpla la condicion i [0, n>
+
+    for j in range(n - i):
+        if (i + j) % 2 == 0:
+            print('1',end='') # EOL \n
+        else:
+            print('0',end='')
+
+    print('')
+
+# n = 5
+# iteraciones    lon cadena
+# i = 0              5
+# i = 1              4
+# i = 2              3
+# i = 3              2
+# i = 4              1
+# i = 5 corte        -
+# (i + j) % 2 == 0 -> 1 else -> 0
