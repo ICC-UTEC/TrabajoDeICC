@@ -10,7 +10,7 @@ for i in range(n): # range (0, n)
             print('0',end='')
 
     print('')
-
+print(n)
 # n = 5
 # iteraciones    lon cadena
 # i = 0              5
