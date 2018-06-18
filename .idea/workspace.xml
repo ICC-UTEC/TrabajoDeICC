@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdfbbec5-d643-40e9-a956-edc25b2e281d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TrabajoDeICC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TrabajoDeICC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proyecto.py" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto.py" afterDir="false" />
     </list>
@@ -15,20 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="proyecto.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/proyecto.py">
+      <file leaf-file-name="2_triangulo_binario_invertido.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_python-start-master.zip/python-start-master/2_triangulo_binario_invertido.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="225">
+              <caret line="16" column="22" lean-forward="true" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2_triangulo_binario_invertido.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_python-start-master.zip/python-start-master/2_triangulo_binario_invertido.py">
+      <file leaf-file-name="proyecto.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/proyecto.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" selection-end-column="33" />
+            <state relative-caret-position="340">
+              <caret line="20" column="22" lean-forward="true" selection-start-line="1" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -41,6 +42,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$USER_HOME$/AppData/Local/Temp/Temp1_python-start-master.zip/python-start-master/2_triangulo_binario_invertido.py" />
         <option value="$PROJECT_DIR$/proyecto.py" />
       </list>
     </option>
@@ -86,7 +88,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.proyecto (1)">
+    <configuration name="2_triangulo_binario_invertido" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TrabajoDeICC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/Temp1_python-start-master.zip/python-start-master" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/Temp1_python-start-master.zip/python-start-master/2_triangulo_binario_invertido.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="proyecto (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TrabajoDeICC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proyecto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="proyecto" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TrabajoDeICC" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,8 +143,15 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <list>
+      <item itemvalue="Python.proyecto" />
+      <item itemvalue="Python.proyecto (1)" />
+      <item itemvalue="Python.2_triangulo_binario_invertido" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2_triangulo_binario_invertido" />
+        <item itemvalue="Python.proyecto (1)" />
         <item itemvalue="Python.proyecto" />
       </list>
     </recent_temporary>
@@ -116,17 +161,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3286385" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286385" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3286385" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286385" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286385" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -138,7 +184,20 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create new listas in program" />
-    <option name="LAST_COMMIT_MESSAGE" value="create new listas in program" />
+    <MESSAGE value="create new program" />
+    <MESSAGE value="triangulo invertido" />
+    <option name="LAST_COMMIT_MESSAGE" value="triangulo invertido" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/proyecto.py</url>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/proyecto.py">
@@ -162,15 +221,15 @@
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_python-start-master.zip/python-start-master/2_triangulo_binario_invertido.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" selection-end-column="33" />
+        <state relative-caret-position="225">
+          <caret line="16" column="22" lean-forward="true" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/proyecto.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="340">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="1" selection-end-line="23" />
         </state>
       </provider>
     </entry>

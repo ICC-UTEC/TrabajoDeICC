@@ -19,4 +19,5 @@ print(n)
 # i = 3              2
 # i = 4              1
 # i = 5 corte        -
+
 # (i + j) % 2 == 0 -> 1 else -> 0
