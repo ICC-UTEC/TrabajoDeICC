@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdfbbec5-d643-40e9-a956-edc25b2e281d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/TrabajoDeICC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TrabajoDeICC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto.py" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,20 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2_triangulo_binario_invertido.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2_triangulo_binario_invertido.py" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_python-start-master.zip/python-start-master/2_triangulo_binario_invertido.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="16" column="22" lean-forward="true" selection-end-line="23" />
+            <state relative-caret-position="272">
+              <caret line="16" column="22" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="proyecto.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="proyecto.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/proyecto.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="20" column="22" lean-forward="true" selection-start-line="1" selection-end-line="23" />
+              <caret line="20" column="22" selection-start-line="1" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -119,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proyecto.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Renzo\Desktop\TrabajoDeICC\Buscar Palabras.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,18 +158,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286385" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3286385" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3286385" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286385" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286385" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -186,7 +182,8 @@
     <MESSAGE value="create new listas in program" />
     <MESSAGE value="create new program" />
     <MESSAGE value="triangulo invertido" />
-    <option name="LAST_COMMIT_MESSAGE" value="triangulo invertido" />
+    <MESSAGE value="Triangulo Espejo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Triangulo Espejo" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -200,6 +197,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_python-start-master.zip/python-start-master/2_triangulo_binario_invertido.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="22" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proyecto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="1" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/proyecto.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -219,17 +230,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_python-start-master.zip/python-start-master/2_triangulo_binario_invertido.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="22" lean-forward="true" selection-end-line="23" />
-        </state>
-      </provider>
+    <entry file="file://$USER_HOME$/Downloads/d30ca9a3-b2c1-477f-ae33-9a65889f5249">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/proyecto.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="1" selection-end-line="23" />
+          <caret line="20" column="22" selection-start-line="1" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12184.15243/2_triangulo_binario_invertido.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12184.16336/1_triangulo_espejo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_python-start-master.zip/python-start-master/2_triangulo_binario_invertido.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="22" selection-end-line="23" />
         </state>
       </provider>
     </entry>
